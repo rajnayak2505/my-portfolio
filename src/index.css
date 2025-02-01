@@ -197,3 +197,57 @@ code {
   width: 25px;
   margin: 10px;
 }
+
+
+@media screen and (max-width: 1024px) {
+  .main .toppage .intro{
+    padding: 90px 20px 0 90px;
+  }
+  .about, .about-wrap{
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .main .toppage .intro{
+    padding: 160px 20px 0 20px;
+  }
+  .main .toppage h1{
+    font-size: 35px;
+  }
+  
+  .main .toppage .info span{
+    font-size: 10px;
+  }
+  .header ul li, .resume{
+    padding: 10px;
+    font-size: 10px;
+  }
+  .main .toppage{
+    height: calc(100vh - 32px);
+  }
+  .skills-wrap{
+    padding: 15px;
+  }
+  .skills-wrap ul li{
+    padding: 10px;
+    font-size: 15px;
+  }
+  
+}
+
+
+@media screen and (max-width: 500px) {
+  .header{
+    position: fixed;
+    top: 0px;
+    right: 0;
+    left: 0;
+  }
+  .main .toppage{
+    height: 100vh;
+  }
+  .skills{
+    height: 100vh;
+  }
+}

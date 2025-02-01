@@ -8,7 +8,7 @@ const Hello = () => {
             <div className='intro'>
                 <span>Hi all. I am</span>
                 <h1>  Rajesh M Nayak </h1>
-                <h2> Frond-end developer</h2>
+                <h2><code>&#62;</code> Frond-end developer</h2>
                 <div className='info'>
                     <p className='cmnt'><span>&#47;</span><span>&#47;</span> my number</p>
                     <div>
