@@ -5,7 +5,7 @@ const About = () => {
     <div className='about'>
         <div className='about-wrap'>
             <ul>
-                <li> /**</li>
+                <li> <span>&#47;</span>**</li>
                 <li></li>
                 <li></li>
                 <li> **<span className='info'>Summary</span></li>
@@ -49,7 +49,7 @@ const About = () => {
                 <li></li>
                 <li></li>
                 <li></li>
-                <li>**/</li>
+                <li>**<span>&#47;</span></li>
             </ul>
         </div>
     </div>
