@@ -177,6 +177,10 @@ code {
   justify-content: center;
   align-items: center;
 }
+.skills p{
+  margin-bottom: 20px;
+  color: white;
+}
 .skills-wrap{
   background-color: rgb(1 18 33);
   padding: 30px;
@@ -249,5 +253,8 @@ code {
   }
   .skills{
     height: 100vh;
+  }
+  .about-wrap{
+    margin-top: 32px;
   }
 }

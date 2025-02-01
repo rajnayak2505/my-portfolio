@@ -3,6 +3,8 @@ import React from 'react'
 const Skills = () => {
   return (
     <div className='skills'>
+      <div>
+        <p>These are the technologies I've worked with</p>
         <div className='skills-wrap'>
             <ul>
                 <li><img alt='img' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSod7CJvOSEFdtFtmH1pbaPYSW8M4gXMwsmWA&s' /> <span>JavaScript</span></li>
@@ -18,6 +20,7 @@ const Skills = () => {
             </ul>
         </div>
     </div>
+  </div>
   )
 }
 

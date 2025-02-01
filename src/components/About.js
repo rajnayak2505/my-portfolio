@@ -19,7 +19,10 @@ const About = () => {
                 <li></li>
                 <li>**<span className='info'>Experience</span></li>
                 <li></li>
-                <li>*<span className='company'>Media.net</span> <span className='position'>UI Developer - Mumbai, Maharashtra</span></li>
+                <li>*<span className='company'>MasterCard</span> <span className='position'>Software Engineer-||</span> - Navi Mumbai, Maharashtra</li>
+                <li></li>
+                <li></li>
+                <li>*<span className='company'>Media.net</span> <span className='position'>UI Developer </span> - Mumbai, Maharashtra</li>
                 <li></li>
                 <li>Making Creative Keywords for website search, native, display, mobile, local, products for
                 user to get millions of impression and clicks on search based results.</li>
@@ -40,7 +43,6 @@ const About = () => {
                 particular based on required technology.</li>
                 <li>Managing Single-handedly Project Directly Coordinating with Business Development
                 team.</li>
-                <li></li>
                 <li></li>
                 <li></li>
                 <li></li>
