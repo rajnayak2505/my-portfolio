@@ -253,10 +253,10 @@ code {
 }
 .projects h1{
   font-size: 25px;
-  color: white;
-  margin-bottom: 10px;
+  color: #40d1a8;
+  margin: 15px 0;
   font-weight: 700;
-  border-bottom: 3px solid #d88980;
+  border-bottom: 3px solid #5b7690;
 }
 .projects ul li h2{
   color: white;
@@ -330,6 +330,9 @@ code {
   .projects ul li{
     width: 100%;
   }
+  .skills-wrap ul li img{
+    width: 40px;
+  }
 }
 
 
@@ -352,5 +355,11 @@ code {
   }
   .about-wrap{
     margin-top: 32px;
+  }
+  .skills-wrap ul li{
+    margin: 10px;
+  }
+  .skills-wrap ul li img{
+    width: 45px;
   }
 }
