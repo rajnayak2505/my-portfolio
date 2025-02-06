@@ -145,7 +145,7 @@ code {
   color: rgb(216 137 128);
 }
 
-.about,.skills{
+.about,.skills,.projects{
   height: calc(100vh - 78px);
   background-color: rgb(1 22 39);
   color: rgb(91 118 144);
@@ -201,6 +201,49 @@ code {
   width: 25px;
   margin: 10px;
 }
+.projects{
+  overflow-y: scroll;
+}
+.projects ul li img{
+  /* height: 150px; */
+  width: 100%;
+  display: block;
+}
+
+.projects ul li{
+  text-align: center;
+  border: 1px solid white;
+  padding: 5px;
+  width: 22%;
+  margin:15px 5px;
+ 
+}
+.projects h1{
+  font-size: 22px;
+  color: white;
+  margin-bottom: 10px;
+}
+.projects ul li h2{
+  color: white;
+  font-size: 20px;
+  margin: 10px;
+
+}
+.projects ul li a{
+  background-color: rgb(91 118 144);
+  color: white;
+  padding: 15px;
+  margin: 10px;
+  display: inline-flex;
+  text-decoration: none;
+}
+.projects ul li a:hover{
+  opacity: .8;
+}
+.projects ul{
+  display: flex;
+  flex-wrap: wrap;
+}
 
 
 @media screen and (max-width: 1024px) {
@@ -237,7 +280,16 @@ code {
     padding: 10px;
     font-size: 15px;
   }
+  .projects ul li{
+    width: 47%;
+  }
   
+}
+
+@media screen and (max-width: 766px) {
+  .projects ul li{
+    width: 100%;
+  }
 }
 
 
@@ -252,6 +304,9 @@ code {
     height: 100vh;
   }
   .skills{
+    height: 100vh;
+  }
+  .projects{
     height: 100vh;
   }
   .about-wrap{
