@@ -8,8 +8,8 @@ const Projects = () => {
     <div className='projects'>
       <h1>ReactJS Projects</h1>
       <ul>
-        {Reactprojects.map((project) => 
-          <li>
+        {Reactprojects.map((project) =>
+          <li key={project.id}>
             <img alt='project img' src={project.img}/>
             <h2>{project.name}</h2>
             <Link target="_blank" to={project.github}>GitHub Repo.</Link>
@@ -20,7 +20,7 @@ const Projects = () => {
       <h1>JavaScript Projects</h1>
       <ul>
         {JSprojects.map((project) => 
-          <li>
+          <li key={project.id}>
             <img alt='project img' src={project.img}/>
             <h2>{project.name}</h2>
             <Link target="_blank" to={project.github}>GitHub Repo.</Link>
@@ -31,7 +31,7 @@ const Projects = () => {
       <h1>CSS Projects</h1>
       <ul>
         {CSSprojects.map((project) => 
-          <li>
+          <li key={project.id}>
             <img alt='project img' src={project.img}/>
             <h2>{project.name}</h2>
             <Link target="_blank" to={project.github}>GitHub Repo.</Link>

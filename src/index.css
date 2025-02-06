@@ -76,7 +76,7 @@ code {
 .header ul{
   display: flex;
 }
-.header ul li a{
+.header ul li a,.resume{
   color: white;
   text-decoration: none;
 }
@@ -219,9 +219,11 @@ code {
  
 }
 .projects h1{
-  font-size: 22px;
+  font-size: 25px;
   color: white;
   margin-bottom: 10px;
+  font-weight: 700;
+  border-bottom: 3px solid #d88980;
 }
 .projects ul li h2{
   color: white;
@@ -308,6 +310,7 @@ code {
   }
   .projects{
     height: 100vh;
+    margin-top: 32px;
   }
   .about-wrap{
     margin-top: 32px;
