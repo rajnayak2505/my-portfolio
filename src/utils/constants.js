@@ -27,7 +27,7 @@ export const Reactprojects = [
     },
     {
         id:3,
-        name:"My Youtube [Inprpgress]",
+        name:"My Youtube [In-progress]",
         decription:null,
         github:"https://github.com/rajnayak2505/my-youtube",
         livePreview:"",
@@ -35,7 +35,7 @@ export const Reactprojects = [
     },
     {
         id:4,
-        name:"Food App [Inprpgress]",
+        name:"Food App [In-progress]",
         decription:null,
         github:"https://github.com/rajnayak2505/Namaste-React",
         livePreview:"",
@@ -73,7 +73,7 @@ export const JSprojects = [
 export const CSSprojects = [
     {
         id:1,
-        name:"Digital",
+        name:"Digital -Mobile Responsive",
         decription:null,
         github:"https://github.com/rajnayak2505/digital-template",
         livePreview:"https://rajnayak2505.github.io/digital-template/",
@@ -81,7 +81,7 @@ export const CSSprojects = [
     },
     {
         id:2,
-        name:"Photographer Hero Page",
+        name:"Photographer Hero Page -Mobile Responsive",
         decription:null,
         github:"https://github.com/rajnayak2505/photographer-ui-design",
         livePreview:"https://rajnayak2505.github.io/photographer-ui-design/",
@@ -89,7 +89,7 @@ export const CSSprojects = [
     },
     {
         id:3,
-        name:"Doctor Portal",
+        name:"Doctor Portal -Mobile Responsive",
         decription:null,
         github:"https://github.com/rajnayak2505/doctors",
         livePreview:"https://rajnayak2505.github.io/doctors/",
@@ -97,7 +97,7 @@ export const CSSprojects = [
     },
     {
         id:4,
-        name:"MI Clone",
+        name:"MI Clone -Browser Only",
         decription:null,
         github:"https://github.com/rajnayak2505/miWebsite.github.io",
         livePreview:"https://rajnayak2505.github.io/miWebsite.github.io/",
