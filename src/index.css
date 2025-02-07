@@ -291,7 +291,7 @@ code {
     padding: 90px 20px 0 90px;
   }
   .about, .about-wrap{
-    height: auto;
+    overflow-y: overlay;
   }
 }
 
@@ -352,6 +352,9 @@ code {
   .projects{
     height: 100vh;
     margin-top: 32px;
+  }
+  .about{
+    height: calc(100vh - 32px);
   }
   .about-wrap{
     margin-top: 32px;

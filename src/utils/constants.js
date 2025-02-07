@@ -1,5 +1,6 @@
 import RJ1 from "../images/RJ1.png"
 import RJ2 from "../images/RJ2.png"
+import RJ3 from "../images/RJ3.png"
 import JS1 from "../images/JS1.png"
 import JS2 from "../images/JS2.png"
 import JS3 from "../images/JS3.png"
@@ -19,6 +20,14 @@ export const Reactprojects = [
     },
     {
         id:2,
+        name:"Giffer",
+        decription:"Giffer - Search for GIF with using multiple option or by searching any as per your emotion.",
+        github:"https://github.com/rajnayak2505/giffer",
+        livePreview:"https://rajnayak2505.github.io/giffer",
+        img:RJ3
+    },
+    {
+        id:3,
         name:"Netflix GPT",
         decription:null,
         github:"https://github.com/rajnayak2505/netflix-gpt",
@@ -26,7 +35,7 @@ export const Reactprojects = [
         img:RJ2
     },
     {
-        id:3,
+        id:4,
         name:"My Youtube [In-progress]",
         decription:null,
         github:"https://github.com/rajnayak2505/my-youtube",
@@ -34,7 +43,7 @@ export const Reactprojects = [
         img:""
     },
     {
-        id:4,
+        id:5,
         name:"Food App [In-progress]",
         decription:null,
         github:"https://github.com/rajnayak2505/Namaste-React",
