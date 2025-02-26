@@ -1,7 +1,6 @@
 import RJ1 from "../images/RJ1.png"
 import RJ2 from "../images/RJ2.png"
 import RJ3 from "../images/RJ3.png"
-import RJ4 from "../images/RJ4.png"
 import RJ5 from "../images/RJ5.png"
 import JS1 from "../images/JS1.png"
 import JS2 from "../images/JS2.png"
