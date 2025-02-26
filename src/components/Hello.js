@@ -29,7 +29,7 @@ const Hello = () => {
                         <span className='const'>const</span>
                         <span className='name'>githubLink</span>
                         <span className='eql'>=</span>
-                        <Link to="https://github.com/rajnayak2505"><span className='string'>"https://github.com/rajnayak2505"</span></Link>
+                        <Link to="https://github.com/rajnayak2505?tab=repositories"><span className='string'>"https://github.com/rajnayak2505"</span></Link>
                     </div>
                     <p className='cmnt'><span>&#47;</span><span>&#47;</span> my linkedin Page</p>
                     <div>

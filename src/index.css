@@ -155,6 +155,7 @@ code {
   padding: 20px;
   border: 1px solid;
   height: 83vh;
+  overflow-y: overlay;
 }
 .about-wrap .num{
   margin-left: 10px;

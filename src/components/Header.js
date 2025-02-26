@@ -10,7 +10,7 @@ const Header = () => {
             <li><Link to='skills'>_skills</Link></li>
             <li><Link to='projects'>_projects</Link></li>
         </ul>
-        <a href={`${process.env.PUBLIC_URL}/resume.pdf`} className='resume' download="Rajesh_Nayak_Resume.pdf">_resume</a>
+        <a href={`${process.env.PUBLIC_URL}/Rajesh_Nayak_Resume.pdf`} className='resume' download="Rajesh_Nayak_Resume.pdf">_resume</a>
     </div>
   )
 }

@@ -19,10 +19,20 @@ const About = () => {
                 <li></li>
                 <li>**<span className='info'>Experience</span></li>
                 <li></li>
-                <li>*<span className='company'>MasterCard</span> <span className='position'>Software Engineer-||</span> - Navi Mumbai, Maharashtra</li>
+                <li>*<span className='company'>MasterCard</span> <span className='position'>Software Engineer-||</span> [01/2022 - Present] - Navi Mumbai, Maharashtra</li>
+                <li></li>
+                <li>Enhanced user experience by resolving UI bugs in the Connect application using React.j</li>
+                <li>Developed new features for Connect to improve functionality and usability.</li>
+                <li>Created automation scripts in JavaScript to extract financial data requested by customers through API's.</li>
+                <li>Collaborated with the Quality & Compliance team to identify and resolve bugs and issues for a smooth user
+                experience.</li>
+                <li>Increased productivity by effectively utilizing applications such as Splunk, Tableau, Snowflake, and Postman</li>
+                <li>Conducted code reviews and implemented reusable components for UI development and integration to ensure
+                end-to-end quality</li>
                 <li></li>
                 <li></li>
-                <li>*<span className='company'>Media.net</span> <span className='position'>UI Developer </span> - Mumbai, Maharashtra</li>
+                <li></li>
+                <li>*<span className='company'>Media.net</span> <span className='position'>UI Developer </span>[06/2019 - 12/2021] - Mumbai, Maharashtra</li>
                 <li></li>
                 <li>Making Creative Keywords for website search, native, display, mobile, local, products for
                 user to get millions of impression and clicks on search based results.</li>

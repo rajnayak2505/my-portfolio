@@ -1,6 +1,8 @@
 import RJ1 from "../images/RJ1.png"
 import RJ2 from "../images/RJ2.png"
 import RJ3 from "../images/RJ3.png"
+import RJ4 from "../images/RJ4.png"
+import RJ5 from "../images/RJ5.png"
 import JS1 from "../images/JS1.png"
 import JS2 from "../images/JS2.png"
 import JS3 from "../images/JS3.png"
@@ -33,6 +35,14 @@ export const Reactprojects = [
         github:"https://github.com/rajnayak2505/netflix-gpt",
         livePreview:"https://grand-daifuku-f22855.netlify.app/",
         img:RJ2
+    },
+    {
+        id:6,
+        name:"ChatAI",
+        decription:"chatAi is clone of Gemini",
+        github:"https://github.com/rajnayak2505/chat-ai",
+        livePreview:"https://chat-ai-online.netlify.app/",
+        img:RJ5
     },
     {
         id:4,
